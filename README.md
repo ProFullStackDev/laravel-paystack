@@ -455,7 +455,3 @@ Don't forget to [follow me on twitter](https://twitter.com/unicodeveloper)!
 
 Thanks!
 Prosper Otemuyiwa.
-
-## License
-
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
